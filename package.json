@@ -1,0 +1,12 @@
+{
+  "name": "ha-tivi",
+  "version": "1.0.0",
+  "description": "Home Assistant dashboard kiosk on Samsung TizenBrew",
+  "packageType": "mods",
+  "appName": "HA Tivi",
+  "websiteURL": "http://192.168.1.130:8123/",
+  "main": "ha.js",
+  "evaluateScriptOnDocumentStart": true,
+  "keys": ["ColorF0Red"],
+  "license": "MIT"
+}
